@@ -1,16 +1,14 @@
-## Hi there 👋
+# Joseph Bremerman
 
-<!--
-**JSBremerman/JSBremerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aviation operations background moving into cloud and software. Seminole, FL. Seeking a remote junior cloud or junior developer role.
 
-Here are some ideas to get you started:
+Independent contract work through JP Solutions: Terraform and ticket work in Azure, AWS, and GCP environments. Earlier career in air traffic control and technical instruction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python, JavaScript, HTML/CSS, SQL · Flask, React, Node, Express, MongoDB · Terraform, GitHub, Azure, AWS, GCP
+
+Most professional infrastructure work is in private repositories. Public samples will show up here as I clean them up.
+
+- [LinkedIn](https://www.linkedin.com/in/jsbremerman)
+- joseph.steven.bremerman@gmail.com
+
+  
